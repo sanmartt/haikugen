@@ -80,11 +80,17 @@
         "me",
         "day",
         "wolf",
-        "most,
+        "most",
         "fun",
         "golf",
         "stop",
-        "jump"
+        "jump",
+        "hang",
+        "splash",
+        "pond",
+        "gold",
+        "hand"
+
     ],
     "2":
         ["yellow",
@@ -147,7 +153,14 @@
         "again",
         "tropics",
         "docker",
-        "signer"
+        "signer",
+        "lucid",
+        "winter",
+        "morning",
+        "ocean",
+        "silence",
+        "color"
+
         ],
         "3":[
             "cucumber",
@@ -180,7 +193,9 @@
             "fireboard",
             "family",
             "orange",
-            "banana"
+            "banana",
+            "together",
+            "forever"
         ],
         "4":[
             "memorial",
@@ -202,7 +217,7 @@
             "invisible",
             "February",
             "watermelon",
-            "polymorphism,
+            "polymorphism"
         ],
         "5":[
             "acrimonious",
